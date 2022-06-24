@@ -54,7 +54,7 @@ Download MDD (N/A)
 
 [Download CSS](./style.css)
 
-[Download Dictionary Icon](./CB_slang_dictionary.gif)
+[Download Dictionary Icon](./CB_slang_dictionary.png)
 
 ## Usage Instructions
 
