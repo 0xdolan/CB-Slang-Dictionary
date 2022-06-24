@@ -18,9 +18,13 @@ Download and install the required and recommended software / apps for using `MDi
 
   **YouTube:** [**How to install and use MDX is GoldenDict??**](https://www.youtube.com/watch?v=bDipNBvhOVI)
 
-- ### Linux or MacOS
+- ### Linux
 
-  [**Download GoldenDict (Free)**](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/) OR [**Download from GitHub**](https://github.com/goldendict/goldendict)
+  [**Download GoldenDict from GitHub**](https://github.com/goldendict/goldendict)
+
+- ### MacOS
+
+  [**Download GoldenDict (Free)**](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/)
 
 - ### iOS (iPhone / iPad)
 
